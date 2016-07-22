@@ -42,6 +42,6 @@ while True:
 ...             if answer2.lower() == english:
 ...                 print("Your answer is correct")
 ...             else:
-...                 print("Sorry, yout answer is wrong. The correct answer is " + english)
+...                 print("Sorry, your answer is wrong. The correct answer is " + english)
 ...     else:
 ...         break
